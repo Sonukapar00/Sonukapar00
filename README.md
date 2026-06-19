@@ -133,12 +133,18 @@ Data analytics dashboard using SQL and Power BI.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sonukapar00&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukapar00&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,C%2B%2B" height="170"/>
 </p>
-
 ---
 
 ## 🏆 Coding Profiles
