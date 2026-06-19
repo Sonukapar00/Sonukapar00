@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Open_To_Work-28A745?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full_Stack_Developer-61DAFB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SDE_Aspirant-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-190%2B_Solved-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/NSUT-Class_of_2023-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -20,7 +22,7 @@
 
 💻 Passionate about building scalable, high-performance, and user-friendly web applications
 
-🚀 Solved **190+ Coding Problems** on LeetCode & HackerRank
+🚀 Solved **190+ Coding Problems** across LeetCode and HackerRank
 
 🌱 Currently learning **System Design, Backend Engineering, and Advanced DSA**
 
@@ -59,32 +61,39 @@
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge)
 
 ### Backend
 
+![Java](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Deployment & Cloud
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
@@ -96,6 +105,8 @@
 ![OOP](https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-2196F3?style=for-the-badge)
 
 ---
 
