@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sonu Kapar
 
-<h3 align="center">🚀 Full Stack Developer | Java & MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Backend Developer | MERN Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sonukapar00&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -8,10 +8,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To_Work-28A745?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SDE_Aspirant-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-190%2B_Solved-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/NSUT-Class_of_2023-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NSUT-2023-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -21,6 +21,8 @@
 🎓 B.Tech Graduate from **Netaji Subhas University of Technology (NSUT), 2023**
 
 💻 Passionate about building scalable, high-performance, and user-friendly web applications
+
+🔥 Building scalable full-stack applications using **Java, React, Node.js, MongoDB, MySQL, and PostgreSQL**
 
 🚀 Solved **190+ Coding Problems** across LeetCode and HackerRank
 
@@ -56,7 +58,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### Frontend
 
@@ -70,7 +71,7 @@
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java Backend](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
@@ -85,9 +86,9 @@
 
 ### Deployment & Cloud
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ### Tools
 
@@ -110,16 +111,32 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🔗 URL Shortener
+
+Scalable URL shortening platform with custom aliases and analytics.
+
+### 💰 Coin Tracker
+
+Real-time cryptocurrency tracking application built with React.
+
+### ✈️ Travel Booking System
+
+Responsive travel booking platform with modern UI.
+
+### 📊 Supermarket Sales Dashboard
+
+Data analytics dashboard using SQL and Power BI.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sonukapar00&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukapar00&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sonukapar00&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
