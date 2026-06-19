@@ -133,7 +133,10 @@ Data analytics dashboard using SQL and Power BI.
 
 ## 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukapar00&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=Super-Market-sales-dashboard"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sonukapar00&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukapar00&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,C%2B%2B" height="170"/>
 </p>
 
 ---
