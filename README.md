@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-🎓 B.Tech Graduate from **Netaji Subhas University of Technology (NSUT), 2023**
+🎓 B.Tech Graduate from **Netaji Subhas University of Technology (NSUT),**
 💻 Full Stack Developer with experience building scalable and responsive web applications
 ⚡ Skilled in **Java, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Tailwind CSS, and REST APIs**
 🚀 Solved **190+ coding problems** across LeetCode and HackerRank
