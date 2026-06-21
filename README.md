@@ -121,11 +121,21 @@
 
 ## 🏆 Coding Profiles
 
-![LeetCode](https://img.shields.io/badge/LeetCode-190%2B_Problems-orange?style=for-the-badge\&logo=leetcode)
+<p align="left">
 
-![HackerRank](https://img.shields.io/badge/HackerRank-SQL_&_Python-00EA64?style=for-the-badge\&logo=hackerrank)
+<a href="https://leetcode.com/u/Sonukapar/">
+<img src="https://img.shields.io/badge/LeetCode-190%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
----
+<a href="https://www.hackerrank.com/profile/Sonukapar96500">
+<img src="https://img.shields.io/badge/HackerRank-SQL_%26_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sonu-848019200/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>---
 
 ## 🎯 Current Focus
 
