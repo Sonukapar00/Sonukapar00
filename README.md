@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-190%2B_Solved-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/NSUT-2023-blue?style=for-the-badge" />
 </p>
 
 ---
