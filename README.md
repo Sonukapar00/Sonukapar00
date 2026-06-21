@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sonu Kapar
 
-<h3 align="center">Full Stack Developer | Java Backend Developer | MERN Stack</h3>
+<h3 align="center">Full Stack Developer ||  Frontend Developer || Backend Developer || MERN Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sonukapar00&label=Profile%20Views&color=0e75b6&style=flat" />
